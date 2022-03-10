@@ -1,1 +1,5 @@
-console.log('Hello GitHub Actions');
+function gitHubActions() {
+        return 'Hi GitHub Actions';
+}
+
+gitHubActions();
